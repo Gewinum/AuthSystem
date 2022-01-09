@@ -2,5 +2,8 @@
 build-by-default: true
 branches:
 - master
-projects: []
+projects:
+    AuthSystem:
+        path: ./
+        logo: icon.png
 ...
