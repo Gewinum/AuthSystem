@@ -1,6 +1,5 @@
 # AuthSystem - absolutely simple auth plugin
 [![](https://poggit.pmmp.io/shield.state/AuthSystem)](https://poggit.pmmp.io/p/AuthSystem)
-<a href="https://poggit.pmmp.io/p/AuthSystem"><img src="https://poggit.pmmp.io/shield.state/AuthSystem"></a>
 
 AuthSystem is simplest PMMP4 authorise plugin. You can use it with ease. It supports xbox live auth, and also password minimal and maximal lengths are configurable.
 
