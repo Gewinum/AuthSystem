@@ -1,5 +1,5 @@
 name: AuthSystem
+version: 0.1.0
 api: 4.0.0
-version: 1.0.0
-main: authsystem\AuthSystem
-author: https://github.com/Gewinum
+main: gewinum\authsystem\AuthSystemCore
+author: Gewinum
